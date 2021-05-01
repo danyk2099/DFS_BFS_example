@@ -1,2 +1,6 @@
-# DFS_BFS_example
-An example of a DFS and BFS implementation in JavaScript
+# DFS/BFS Example
+An example of a DFS/BFS implementation in JavaScript
+
+How to run: Double-click on "index.html"
+
+Since no modules are imported, no server is required.
